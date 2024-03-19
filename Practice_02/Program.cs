@@ -10,7 +10,6 @@ public class Practice_02
         Console.WriteLine("hello world");
         Console.WriteLine("hello world");
         Console.WriteLine("hello world");
-        Console.WriteLine("hello world");
 
 
 
