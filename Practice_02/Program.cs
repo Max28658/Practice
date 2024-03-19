@@ -13,6 +13,8 @@ public class Practice_02
 
 
         int[] arr = [1, 3, 44, 5, 4, 5, 3,];
-        Console.WriteLine("avarage of arr: " + Task02.countAvg(arr));
+        double avg = Task02.countAvg(arr);
+        // Console.WriteLine("avarage of arr: " + Task02.countAvg(arr));
+        Console.WriteLine("avarage of arr: " + avg);
     }
 }
