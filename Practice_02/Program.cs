@@ -16,5 +16,6 @@ public class Practice_02
         double avg = Task02.countAvg(arr);
         // Console.WriteLine("avarage of arr: " + Task02.countAvg(arr));
         Console.WriteLine("avarage of arr: " + avg);
+        Console.WriteLine("avarage of arr: " + avg);
     }
 }
