@@ -20,5 +20,6 @@ public class Practice_02
 
 
         Console.WriteLine("max in array " + Task03.findMax(arr));
+        Console.WriteLine("max in array " + Task03.findMax(arr));
     }
 }
