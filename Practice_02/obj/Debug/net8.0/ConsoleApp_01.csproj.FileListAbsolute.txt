@@ -1,0 +1,15 @@
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\ConsoleApp_01\bin\Debug\net8.0\ConsoleApp_01.exe
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\ConsoleApp_01\bin\Debug\net8.0\ConsoleApp_01.deps.json
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\ConsoleApp_01\bin\Debug\net8.0\ConsoleApp_01.runtimeconfig.json
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\ConsoleApp_01\bin\Debug\net8.0\ConsoleApp_01.dll
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\ConsoleApp_01\bin\Debug\net8.0\ConsoleApp_01.pdb
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\ConsoleApp_01\obj\Debug\net8.0\ConsoleApp_01.GeneratedMSBuildEditorConfig.editorconfig
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\ConsoleApp_01\obj\Debug\net8.0\ConsoleApp_01.AssemblyInfoInputs.cache
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\ConsoleApp_01\obj\Debug\net8.0\ConsoleApp_01.AssemblyInfo.cs
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\ConsoleApp_01\obj\Debug\net8.0\ConsoleApp_01.csproj.CoreCompileInputs.cache
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\ConsoleApp_01\obj\Debug\net8.0\ConsoleApp_01.sourcelink.json
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\ConsoleApp_01\obj\Debug\net8.0\ConsoleApp_01.dll
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\ConsoleApp_01\obj\Debug\net8.0\refint\ConsoleApp_01.dll
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\ConsoleApp_01\obj\Debug\net8.0\ConsoleApp_01.pdb
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\ConsoleApp_01\obj\Debug\net8.0\ConsoleApp_01.genruntimeconfig.cache
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\ConsoleApp_01\obj\Debug\net8.0\ref\ConsoleApp_01.dll

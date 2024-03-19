@@ -1,0 +1,15 @@
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\Practice_02\bin\Debug\net8.0\Practice_02.exe
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\Practice_02\bin\Debug\net8.0\Practice_02.deps.json
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\Practice_02\bin\Debug\net8.0\Practice_02.runtimeconfig.json
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\Practice_02\bin\Debug\net8.0\Practice_02.dll
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\Practice_02\bin\Debug\net8.0\Practice_02.pdb
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\Practice_02\obj\Debug\net8.0\Practice_02.GeneratedMSBuildEditorConfig.editorconfig
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\Practice_02\obj\Debug\net8.0\Practice_02.AssemblyInfoInputs.cache
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\Practice_02\obj\Debug\net8.0\Practice_02.AssemblyInfo.cs
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\Practice_02\obj\Debug\net8.0\Practice_02.csproj.CoreCompileInputs.cache
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\Practice_02\obj\Debug\net8.0\Practice_02.sourcelink.json
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\Practice_02\obj\Debug\net8.0\Practice_02.dll
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\Practice_02\obj\Debug\net8.0\refint\Practice_02.dll
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\Practice_02\obj\Debug\net8.0\Practice_02.pdb
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\Practice_02\obj\Debug\net8.0\Practice_02.genruntimeconfig.cache
+U:\Files\PJATK\II stopnia 4 semestru\2. APBD\Practices\Practice\Practice_02\obj\Debug\net8.0\ref\Practice_02.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "U:\\Files\\PJATK\\II stopnia 4 semestru\\2. APBD\\Practices\\Practice\\ConsoleApp_01\\ConsoleApp_01.csproj",
-      "projectName": "ConsoleApp_01",
-      "projectPath": "U:\\Files\\PJATK\\II stopnia 4 semestru\\2. APBD\\Practices\\Practice\\ConsoleApp_01\\ConsoleApp_01.csproj",
+      "projectUniqueName": "U:\\Files\\PJATK\\II stopnia 4 semestru\\2. APBD\\Practices\\Practice\\Practice_02\\Practice_02.csproj",
+      "projectName": "Practice_02",
+      "projectPath": "U:\\Files\\PJATK\\II stopnia 4 semestru\\2. APBD\\Practices\\Practice\\Practice_02\\Practice_02.csproj",
       "packagesPath": "C:\\Users\\skryp\\.nuget\\packages\\",
-      "outputPath": "U:\\Files\\PJATK\\II stopnia 4 semestru\\2. APBD\\Practices\\Practice\\ConsoleApp_01\\obj\\",
+      "outputPath": "U:\\Files\\PJATK\\II stopnia 4 semestru\\2. APBD\\Practices\\Practice\\Practice_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\skryp\\AppData\\Roaming\\NuGet\\NuGet.Config",
